@@ -73,6 +73,10 @@ In this section you will find Yara rules specialised toward the identification o
 
 In this section you will find Yara rules specialised toward the identification of well-known mobile malware.
 
+## Utils
+
+In this section you will find Yara rules specialised toward the identification of common data patterns and generic forensic indicators. These rules serve as building blocks to detect network identifiers, file structures, or suspicious artifacts useful for broader analysis.
+
 ## Deprecated
 
 In this section you will find Yara rules deprecated.
